@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(29, 4, 87);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+}
+
+h1, h2, p {
+    color: white;
+    font-family: sans-serif;
+}
+
+.atom-img {
+    border-radius: 50%;
+    margin-top: 20px; /* ajuste conforme necessário */
+}
