@@ -1,0 +1,9 @@
+button {
+    background-color: rgb(205, 218, 255);
+    color: black; /* Defina a cor do texto dentro do botão para preto por padrão */
+}
+
+button:hover {
+    background-color: rgb(40, 85, 209);
+    color: white; /* Mude a cor do texto para branco quando o cursor estiver sobre o botão */
+}
